@@ -14,6 +14,22 @@
   font-size: calc(3px + 2vmin);
 }
 
+.col-md-4 {
+  border-radius: 8px;
+  box-shadow: 0px 0px 8px #ccc;
+  color: #253b56;
+  margin: 12px 0px;
+  width: 30%;
+  padding: 3%;
+  margin: 10px;
+}
+
+.container-row {
+  flex-direction: row;
+  display: flex;
+  padding: 10px;
+}
+
 .App-header {
   background-color: #000000;
   min-height: 10vh;
